@@ -3,7 +3,7 @@
 </p>
 <hr>
 <p align="left">
-I am a fullstack web developer with a pasion for learning. I typically develop in JavaScript/TypeScript while utilizing the benefits of Angular.
+I am a fullstack web developer with a pasion for learning. I typically develop in JavaScript/TypeScript while utilizing the benefits of Angular. Recently I have been delving into Electron and TensorflowJS.
 </p>
 
 <p align="center">
