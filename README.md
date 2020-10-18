@@ -1,10 +1,10 @@
-### Hey there! My name is Nick Vitulli. 👋
+<p align="center"><h3>Hey there! My name is Nick Vitulli. 👋</h3></p>### Hey there! My name is Nick Vitulli. 👋
 ---
 I am a fullstack web developer with a pasion for learning. I typically develop in JavaScript/TypeScript while utilizing the benefits of Angular.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvitulli71&layout=compact&theme=react)
-![github stats](https://github-readme-stats.vercel.app/api?username=nvitulli71&show_icons=true&theme=react)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=nvitulli71&show_icons=true&theme=react) -->
 <!--
 **nvitulli71/nvitulli71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
