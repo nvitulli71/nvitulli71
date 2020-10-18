@@ -4,6 +4,7 @@ I am a fullstack web developer with a pasion for learning. I typically develop i
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvitulli71&layout=compact&theme=react)
+![github stats](https://github-readme-stats.vercel.app/api?username=nvitulli71&show_icons=true&theme=react)
 <!--
 **nvitulli71/nvitulli71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
