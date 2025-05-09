@@ -6,7 +6,7 @@
 </picture>
 </p>
 <hr>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 <p align="center">
   <img alt="html Badge" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=%23FFFFFF&labelColor=%23E34F26">
@@ -25,12 +25,9 @@
 </p>
 
 <p align="left">
-Software Engineer with nearly 10 years of professional experience designing and developing large-scale web applications that help solve its end-user's problems.
+Experienced software engineer with nearly a decade of professional experience who has a passion for continuous learning and improvement. Committed to staying on top of emerging technologies and methodologies to deliver the best possible solutions for clients and end-users.
 </p>
 
-<p align="left">
-Passionate about learning and making sure that I keep up with where technology is taking us. Currently getting up to speed with React and attempting to learn what I can about TensorFlow.
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvitulli71&theme=react"></br>
